@@ -24,7 +24,7 @@
       "callToActionMode": "button",
       "callToActionText": "Explore",
       "callToActionUrl": "/sale/d",
-      "text-Alignment": "center"
+      "textAlignment": "center"
     }
   },
 
