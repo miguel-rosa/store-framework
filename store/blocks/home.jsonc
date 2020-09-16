@@ -74,7 +74,7 @@
   },
 
   "responsive-layout.mobile#mobile":{
-    "children": ["rich-text#mobile"]
+    "children": ["rich-text#mobile", "image#mobile"]
   },
 
   "rich-text#desktop": {
