@@ -47,8 +47,7 @@
 
   "flex-layout.col#search": {
     "children": [
-      "search-content",
-      "product-summary.shelf"
+      "search-content"
     ],
     "props": {
       "width": "80%"
@@ -57,5 +56,9 @@
 
   "search-content": {
     "blocks": ["gallery, not-found"]
-  } 
+  },
+  
+  "gallery": {
+    "blocks": ["product-summary.shelf"]
+  }
 }
