@@ -3,7 +3,7 @@
         "blocks": ["footer-layout.desktop"]
     },
 
-    "footer-layput.desktop": {
+    "footer-layout.desktop": {
         "children": [
             "flex-layout.row#footer-1-desktop"
         ]
@@ -46,7 +46,8 @@
                 {"url": "https://fb.com", "name": "Facebook"},
                 {"url": "https://instagram.com", "name": "Instagram"},
                 {"url": "https://twitter.com", "name": "Twitter"}
-            ]
+            ],
+            "showInColor": true
         }
     }
 }
