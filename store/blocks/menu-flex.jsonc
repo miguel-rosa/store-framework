@@ -6,7 +6,7 @@
     },
 
     "flex-layout.row#major": {
-        "cildren": [
+        "children": [
             "flex-layout.col#menu",
             "flex-layout.col#img"
         ]
