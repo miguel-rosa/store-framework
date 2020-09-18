@@ -1,4 +1,14 @@
 {
+    "footer": {
+        "blocks": ["footer-layout.desktop"]
+    },
+
+    "footer-layput.desktop": {
+        "children": [
+            "flex-layout.row#footer-1-desktop"
+        ]
+    },
+
     "flex-layout.row#footer-1-desktop": {
         "children": [
             "flex-layout.col#footer-left-desktop",
