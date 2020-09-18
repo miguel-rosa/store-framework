@@ -17,7 +17,7 @@
         "props": {
             "querySchema": {
                 "orderByField": "OrderByReleaseDateDESC",
-                "hideUnavaiableItems": true,
+                "hideUnavailableItems": true,
                 "maxItemsPerPage": 8,
                 "queryField": "Camera",
                 "mapField": "ft",
